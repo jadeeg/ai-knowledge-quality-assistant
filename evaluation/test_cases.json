@@ -1,0 +1,38 @@
+[
+  {
+    "id": "E01",
+    "question": "What are the refund requirements?",
+    "expected": "30 calendar days, unused item, proof of purchase, support review",
+    "type": "supported"
+  },
+  {
+    "id": "E02",
+    "question": "What are the support hours?",
+    "expected": "Monday-Friday, 9 AM-5 PM",
+    "type": "supported"
+  },
+  {
+    "id": "E03",
+    "question": "Can an order be cancelled after dispatch?",
+    "expected": "Contact support; cancellation is not guaranteed",
+    "type": "supported"
+  },
+  {
+    "id": "E04",
+    "question": "Does Northstar pay sick leave?",
+    "expected": "Abstain; policy document has no answer",
+    "type": "unsupported"
+  },
+  {
+    "id": "E05",
+    "question": "Are refunds guaranteed?",
+    "expected": "No; refund requires approval",
+    "type": "supported"
+  },
+  {
+    "id": "E06",
+    "question": "Can support approve every cancellation?",
+    "expected": "Do not claim blanket approval",
+    "type": "unsupported"
+  }
+]
